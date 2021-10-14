@@ -1,0 +1,431 @@
+brand,model,base_color,ROM,RAM,processor,display_size,screen_size,num_rear_camera,num_front_camera,battery_capacity,ratings,num_of_ratings,sales_price,discount_percent
+Apple,iPhone SE,Black,64,2,Water,4.7,Very Small,1,1,1800,4.5,115935,32999,0.17
+Apple,iPhone 12 Mini,Red,64,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,57149,0.04
+Apple,iPhone SE,Red,64,2,Water,4.7,Very Small,1,1,1800,4.5,115935,32999,0.17
+Apple,iPhone XR,Others,64,3,iOS,6.1,Medium,1,1,2942,4.6,96594,42999,0.1
+Apple,iPhone 12,Red,128,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,69149,0.02
+Apple,iPhone 12,Blue,64,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,64149,0.02
+Apple,iPhone 12,White,128,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,69149,0.02
+Apple,iPhone 12,Green,64,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,64149,0.02
+Apple,iPhone 12,Blue,128,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,69149,0.02
+Apple,iPhone 12,Black,128,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,69149,0.02
+Apple,iPhone 12 Mini,Black,64,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,57149,0.04
+Apple,iPhone 12,Green,128,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,69149,0.02
+Apple,iPhone 12 Mini,White,128,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,62149,0.04
+Apple,iPhone 12,Blue,256,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,79149,0.02
+Apple,iPhone 12 Mini,Black,128,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,62149,0.04
+Apple,iPhone XR,White,128,3,Water,6.1,Medium,1,1,2942,4.6,96594,47999,0.09
+Apple,iPhone 12,Red,64,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,64149,0.02
+Apple,iPhone 12,Black,64,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,64149,0.02
+Apple,iPhone 12 Mini,White,64,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,57149,0.04
+Apple,iPhone 12,Black,256,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,79149,0.02
+Apple,iPhone 12 Mini,Purple,256,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,72149,0.03
+Apple,iPhone XR,Yellow,128,3,Water,6.1,Medium,1,1,2942,4.6,96594,47999,0.09
+Apple,iPhone 12,White,256,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,79149,0.02
+Apple,iPhone 12,White,64,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,64149,0.02
+Apple,iPhone XR,Others,128,3,iOS,6.1,Medium,1,1,2942,4.6,96594,47999,0.09
+Apple,iPhone XR,Black,128,3,Water,6.1,Medium,1,1,2942,4.6,96594,47999,0.09
+Apple,iPhone 12,Green,256,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,79149,0.02
+Apple,iPhone XR,Others,64,3,Water,6.1,Medium,1,1,2942,4.6,96594,42999,0.1
+Apple,iPhone 12 Mini,Green,64,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,57149,0.04
+Apple,iPhone XR,Others,128,3,Water,6.1,Medium,1,1,2942,4.6,96594,47999,0.09
+Apple,iPhone 12 Mini,Blue,64,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,57149,0.04
+Apple,iPhone 12 Mini,Red,128,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,62149,0.04
+Apple,iPhone 12 Mini,Blue,256,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,72149,0.15
+Apple,iPhone XR,Black,64,3,iOS,6.1,Medium,1,1,2942,4.6,96594,42999,0.1
+Apple,iPhone 12 Mini,White,256,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,72149,0.03
+Apple,iPhone SE,White,64,2,Water,4.7,Very Small,1,1,1800,4.5,115935,32999,0.17
+Apple,iPhone 12 Mini,Red,256,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,72149,0.03
+Apple,iPhone 12 Mini,Black,256,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,72149,0.03
+Apple,iPhone 12 Mini,Purple,128,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,62149,0.04
+Apple,iPhone 12 Mini,Green,256,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,72149,0.03
+Apple,iPhone 12 Mini,Green,128,4,Ceramic,5.4,Small,2,1,2815,4.5,3898,62149,0.04
+Apple,iPhone 12,Red,256,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,79149,0.16
+Apple,iPhone 8,Gold,64,2,iOS,4.7,Very Small,1,1,1800,4.5,11281,38999,0.02
+Apple,iPhone 7 Plus,Black,32,2,iOS,5.5,Small,2,1,1800,4.5,29713,36999,0.02
+Apple,iPhone XR,Black,128,3,iOS,6.1,Medium,1,1,2942,4.6,96594,47999,0.09
+Apple,iPhone XR,White,128,3,iOS,6.1,Medium,1,1,2942,4.6,96594,47999,0.09
+Apple,iPhone XR,Yellow,128,3,iOS,6.1,Medium,1,1,2942,4.6,96594,47999,0.09
+Apple,iPhone XR,White,64,3,iOS,6.1,Medium,1,1,2942,4.6,96594,42999,0.1
+Apple,iPhone XR,White,64,3,Water,6.1,Medium,1,1,2942,4.6,96594,42999,0.1
+Apple,iPhone XR,Black,64,3,Water,6.1,Medium,1,1,2942,4.6,96594,42999,0.1
+Apple,iPhone XR,Blue,64,3,iOS,6.1,Medium,1,1,2942,4.6,96594,42999,0.1
+Apple,iPhone XR,Blue,128,3,iOS,6.1,Medium,1,1,2942,4.6,96594,47999,0.09
+Apple,iPhone 12,Purple,128,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,69149,0.18
+Apple,iPhone XR,Blue,64,3,Water,6.1,Medium,1,1,2942,4.6,96594,42999,0.1
+Apple,iPhone XR,Yellow,64,3,iOS,6.1,Medium,1,1,2942,4.6,96594,42999,0.1
+Apple,iPhone 12,Purple,256,4,Ceramic,6.1,Medium,2,1,2815,4.6,12669,79149,0.02
+Poco,C3,Black,64,4,MediaTek,6.5,Large,3,1,5000,4.3,230976,8999,0.18
+Poco,M3,Blue,64,4,Qualcomm,6.5,Large,3,1,6000,4.3,42184,10999,0.08
+Poco,M2 Reloaded,Blue,64,4,MediaTek,6.5,Large,4,1,5000,4.3,29757,9999,0.16
+Poco,C3,Blue,32,3,MediaTek,6.5,Large,3,1,5000,4.3,326818,7999,0.2
+Poco,M3,Black,64,6,Qualcomm,6.5,Large,3,1,6000,4.3,358927,11999,0.07
+Poco,C3,Black,32,3,MediaTek,6.5,Large,3,1,5000,4.3,326818,7999,0.2
+Poco,M3,Blue,64,6,Qualcomm,6.5,Large,3,1,6000,4.3,358927,11999,0.07
+Poco,M2 Reloaded,Black,64,4,MediaTek,6.5,Large,4,1,5000,4.3,29757,9999,0.16
+Poco,M3,Yellow,64,6,Qualcomm,6.5,Large,3,1,6000,4.3,358927,11999,0.07
+Poco,M3,Yellow,64,4,Qualcomm,6.5,Large,3,1,6000,4.3,42184,10999,0.08
+Poco,M3,Black,64,4,Qualcomm,6.5,Large,3,1,6000,4.3,42184,10999,0.08
+Poco,M3,Black,128,6,Qualcomm,6.5,Large,3,1,6000,4.3,358927,12999,0.13
+Poco,C3,Blue,64,4,MediaTek,6.5,Large,3,1,5000,4.3,230976,8999,0.18
+Poco,C3,Green,32,3,MediaTek,6.5,Large,3,1,5000,4.3,326818,7999,0.2
+Poco,C3,Green,64,4,MediaTek,6.5,Large,3,1,5000,4.3,230976,8999,0.18
+Poco,X3 Pro,Black,128,6,Qualcomm,6.7,Large,4,1,5160,4.4,61673,18999,0.2
+Poco,M3 Pro 5G,Yellow,128,6,MediaTek,6.5,Large,3,1,5000,4.2,12311,16499,0.08
+Poco,X3 Pro,Blue,128,6,Qualcomm,6.7,Large,4,1,5160,4.4,61673,18999,0.2
+Poco,X3 Pro,Black,128,8,Qualcomm,6.7,Large,4,1,5160,4.4,28678,20999,0.19
+Poco,X3 Pro,Blue,128,8,Qualcomm,6.7,Large,4,1,5160,4.4,28678,20999,0.19
+Poco,M3 Pro 5G,Blue,64,4,MediaTek,6.5,Large,3,1,5000,4.2,16415,14499,0.09
+Poco,M3 Pro 5G,Blue,128,6,MediaTek,6.5,Large,3,1,5000,4.2,12311,16499,0.08
+Poco,M2 Pro,Others,128,6,Qualcomm,6.7,Large,4,1,5000,4.4,300280,15999,0.2
+Poco,X3 Pro,Bronze,128,6,Qualcomm,6.7,Large,4,1,5160,4.4,61673,18999,0.2
+Poco,M3 Pro 5G,Black,128,6,MediaTek,6.5,Large,3,1,5000,4.2,12311,16499,0.08
+Poco,M2 Pro,Black,128,6,Qualcomm,6.7,Large,4,1,5000,4.4,300280,15999,0.2
+Poco,M2 Pro,Blue,128,6,Qualcomm,6.7,Large,4,1,5000,4.4,300280,15999,0.2
+Poco,X3 Pro,Bronze,128,8,Qualcomm,6.7,Large,4,1,5160,4.4,28678,20999,0.19
+Poco,M3,Blue,128,6,Qualcomm,6.5,Large,3,1,6000,4.3,358927,12999,0.13
+Poco,M3 Pro 5G,Yellow,64,4,MediaTek,6.5,Large,3,1,5000,4.2,16415,14499,0.09
+Poco,F3 GT,Black,128,8,MediaTek,6.7,Large,3,1,5065,4.3,6246,28999,0.17
+Poco,M2 Pro,Blue,64,6,Qualcomm,6.7,Large,4,1,5000,4.4,300280,14999,0.16
+Poco,M2 Pro,Blue,64,4,Qualcomm,6.7,Large,4,1,5000,4.3,212383,13999,0.17
+Poco,M2 Pro,Others,64,4,Qualcomm,6.7,Large,4,1,5000,4.3,212383,13999,0.17
+Poco,M2 Pro,Black,64,4,Qualcomm,6.7,Large,4,1,5000,4.3,212383,13999,0.17
+Poco,X3,Blue,128,8,Qualcomm,6.7,Large,4,1,6000,4.3,35643,18999,0.17
+Poco,F3 GT,Silver,256,8,MediaTek,6.7,Large,3,1,5065,4.3,6246,30999,0.16
+Poco,F3 GT,Black,256,8,MediaTek,6.7,Large,3,1,5065,4.3,6246,30999,0.16
+Poco,F3 GT,Silver,128,8,MediaTek,6.7,Large,3,1,5065,4.3,6246,28999,0.17
+Poco,F3 GT,Black,128,6,MediaTek,6.7,Large,3,1,5065,4.3,3324,26999,0.18
+Poco,F3 GT,Silver,128,6,MediaTek,6.7,Large,3,1,5065,4.3,3324,26999,0.18
+Poco,F1,Blue,256,8,Qualcomm,6.2,Medium,2,1,4000,4.5,28043,21999,0.29
+Poco,F1,Black,128,6,Qualcomm,6.2,Medium,2,1,4000,4.6,244002,18999,0.09
+Poco,M3,Yellow,128,6,Qualcomm,6.5,Large,3,1,6000,4.3,358927,12999,0.13
+Poco,M2 Pro,Black,64,6,Qualcomm,6.7,Large,4,1,5000,4.4,300280,14999,0.16
+Poco,M2 Pro,Others,64,6,Qualcomm,6.7,Large,4,1,5000,4.4,300280,14999,0.16
+Poco,M2,Red,128,6,MediaTek,6.5,Large,4,1,5000,4.3,392626,11499,0.23
+Poco,X3,Blue,128,6,Qualcomm,6.7,Large,4,1,6000,4.3,240769,16999,0.19
+Poco,X3,Blue,64,6,Qualcomm,6.7,Large,4,1,6000,4.3,240769,15999,0.2
+Poco,X3,Gray,64,6,Qualcomm,6.7,Large,4,1,6000,4.3,240769,15999,0.2
+Poco,X3,Gray,128,6,Qualcomm,6.7,Large,4,1,6000,4.3,240769,16999,0.19
+Poco,M2,Black,128,6,MediaTek,6.5,Large,4,1,5000,4.3,392626,11499,0.23
+Poco,M2,Blue,128,6,MediaTek,6.5,Large,4,1,5000,4.3,392626,11499,0.23
+Poco,X3,Gray,128,8,Qualcomm,6.7,Large,4,1,6000,4.3,35643,18999,0.17
+Poco,X2,Red,128,6,Qualcomm,6.7,Large,4,2,4500,4.5,267028,15999,0.2
+Poco,M2,Red,64,6,MediaTek,6.5,Large,4,1,5000,4.3,392626,10499,0.19
+Realme,C20,Blue,32,2,MediaTek,6.5,Large,1,1,5000,4.4,195910,7499,0.06
+Realme,C20,Gray,32,2,MediaTek,6.5,Large,1,1,5000,4.4,195910,7499,0.06
+Realme,C11 2021,Gray,32,2,Others,6.5,Large,1,1,5000,4.3,19399,7299,0.08
+Realme,C11 2021,Blue,32,2,Others,6.5,Large,1,1,5000,4.3,19399,7299,0.08
+Realme,C21Y,Black,64,4,Others,6.5,Large,3,1,5000,4.4,9813,9999,0.09
+Realme,C21Y,Blue,64,4,Others,6.5,Large,3,1,5000,4.4,9813,9999,0.09
+Realme,Narzo 30 5G,Blue,64,4,MediaTek,6.5,Large,3,1,5000,4.4,2924,14999,0.06
+Realme,Narzo 30 5G,Silver,64,4,MediaTek,6.5,Large,3,1,5000,4.4,2924,14999,0.06
+Realme,Narzo 30 5G,Blue,128,6,MediaTek,6.5,Large,3,1,5000,4.3,43984,16999,0.05
+Realme,Narzo 30 5G,Silver,128,6,MediaTek,6.5,Large,3,1,5000,4.3,43984,16999,0.05
+Realme,C21,Blue,64,4,MediaTek,6.5,Large,3,1,5000,4.4,95763,9999,0.09
+Realme,C21,Blue,32,3,MediaTek,6.5,Large,3,1,5000,4.4,61393,8999,0.1
+Realme,C21,Black,64,4,MediaTek,6.5,Large,3,1,5000,4.4,95763,9999,0.09
+Realme,C21,Black,32,3,MediaTek,6.5,Large,3,1,5000,4.4,61393,8999,0.1
+Realme,Narzo 30,Blue,64,6,MediaTek,6.5,Large,3,1,5000,4.3,22063,14499,0.09
+Realme,C11 2021,Blue,64,4,Others,6.5,Large,1,1,5000,4.2,4382,8799,0.12
+Realme,Narzo 30,Silver,64,4,MediaTek,6.5,Large,3,1,5000,4.3,38602,13499,0.1
+Realme,Narzo 30,Blue,64,4,MediaTek,6.5,Large,3,1,5000,4.3,38602,13499,0.1
+Realme,Narzo 30,Silver,64,6,MediaTek,6.5,Large,3,1,5000,4.3,22063,14499,0.09
+Realme,C11 2021,Gray,64,4,Others,6.5,Large,1,1,5000,4.2,4382,8799,0.12
+Realme,8s 5G,Purple,128,6,MediaTek,6.5,Large,3,1,5000,4.5,2411,17999,0.14
+Realme,8s 5G,Blue,128,6,MediaTek,6.5,Large,3,1,5000,4.5,2411,17999,0.14
+Realme,Narzo 30A,Black,32,3,MediaTek,6.5,Large,2,1,6000,4.3,115174,8999,0.1
+Realme,Narzo 30,Blue,128,6,MediaTek,6.5,Large,3,1,5000,4.3,22063,15499,0.08
+Realme,Narzo 30,Silver,128,6,MediaTek,6.5,Large,3,1,5000,4.3,22063,15499,0.08
+Realme,8 5G,Black,128,4,MediaTek,6.5,Large,3,1,5000,4.3,59116,16499,0.02
+Realme,8 5G,Blue,64,4,MediaTek,6.5,Large,3,1,5000,4.3,59116,15499,0.03
+Realme,8 5G,Black,64,4,MediaTek,6.5,Large,3,1,5000,4.3,59116,15499,0.03
+Realme,8 Pro,Black,128,8,Qualcomm,6.4,Medium,4,1,4500,4.4,27742,20149,0.08
+Realme,C15,Blue,32,3,MediaTek,6.5,Large,4,1,6000,4.3,53691,9999,0.16
+Realme,8 5G,Blue,128,8,MediaTek,6.5,Large,3,1,5000,4.3,41549,18499,0.02
+Realme,8 5G,Black,128,8,MediaTek,6.5,Large,3,1,5000,4.3,41549,18499,0.02
+Realme,8 5G,Blue,128,4,MediaTek,6.5,Large,3,1,5000,4.3,59116,16499,0.02
+Realme,8 Pro,Black,128,6,Qualcomm,6.4,Medium,4,1,4500,4.3,60758,18149,0.09
+Realme,8 Pro,Blue,128,8,Qualcomm,6.4,Medium,4,1,4500,4.4,27742,20149,0.08
+Realme,8,Silver,128,8,MediaTek,6.4,Medium,4,1,5000,4.3,44002,17999,0.05
+Realme,8,Black,128,4,MediaTek,6.4,Medium,4,1,5000,4.3,66233,15999,0.05
+Realme,8,Black,128,6,MediaTek,6.4,Medium,4,1,5000,4.3,42027,16999,0.05
+Realme,8,Black,128,8,MediaTek,6.4,Medium,4,1,5000,4.3,44002,17999,0.05
+Realme,8,Silver,128,6,MediaTek,6.4,Medium,4,1,5000,4.3,42027,16999,0.05
+Realme,GT Master Edition,White,256,8,Qualcomm,6.4,Medium,3,1,4300,4.3,946,29999,0.06
+Realme,X7 5G,Others,128,8,MediaTek,6.4,Medium,3,1,4310,4.3,19628,22149,0.07
+Realme,7,Blue,64,6,MediaTek,6.5,Large,4,1,5000,4.3,258542,14999,0.16
+Realme,Narzo 30 Pro 5G,Silver,64,6,MediaTek,6.5,Large,3,1,5000,4.3,51221,17149,0.09
+Realme,Narzo 30 Pro 5G,Black,64,6,MediaTek,6.5,Large,3,1,5000,4.3,51221,17149,0.09
+Realme,C12,Silver,32,3,MediaTek,6.5,Large,3,1,6000,4.4,310484,8999,0.18
+Realme,C11,Gray,32,2,MediaTek,6.5,Large,2,1,5000,4.4,447343,7499,0.16
+Realme,C11,Green,32,2,MediaTek,6.5,Large,2,1,5000,4.4,447343,7499,0.16
+Realme,X7 5G,Others,128,6,MediaTek,6.4,Medium,3,1,4310,4.3,56818,19999,0.09
+Realme,GT Master Edition,Black,128,8,Qualcomm,6.4,Medium,3,1,4300,4.3,946,27999,0.06
+Realme,GT Master Edition,Gray,128,8,Qualcomm,6.4,Medium,3,1,4300,4.3,946,27999,0.06
+Realme,GT Master Edition,Black,128,6,Qualcomm,6.4,Medium,3,1,4300,4.1,167,25999,0.03
+Realme,Narzo 30 Pro 5G,Silver,128,8,MediaTek,6.5,Large,3,1,5000,4.3,21940,20149,0.08
+Realme,Narzo 30 Pro 5G,Black,128,8,MediaTek,6.5,Large,3,1,5000,4.3,21940,20149,0.08
+Realme,GT Master Edition,Gray,128,6,Qualcomm,6.4,Medium,3,1,4300,4.1,167,25999,0.03
+Realme,GT Master Edition,White,128,8,Qualcomm,6.4,Medium,3,1,4300,4.3,946,27999,0.06
+Realme,GT Master Edition,Gray,256,8,Qualcomm,6.4,Medium,3,1,4300,4.3,946,29999,0.06
+Realme,GT Master Edition,Black,256,8,Qualcomm,6.4,Medium,3,1,4300,4.3,946,29999,0.06
+Realme,GT Master Edition,White,128,6,Qualcomm,6.4,Medium,3,1,4300,4.1,167,25999,0.03
+Realme,X7 Max,Black,128,8,MediaTek,6.4,Medium,3,1,4500,4.3,22103,27149,0.09
+Realme,X7 Max,Silver,128,8,MediaTek,6.4,Medium,3,1,4500,4.3,22103,27149,0.09
+Realme,X7 Max,Black,256,12,MediaTek,6.4,Medium,3,1,4500,4.3,7692,30149,0.08
+Realme,X7 Max,Others,256,12,MediaTek,6.4,Medium,3,1,4500,4.3,7692,30149,0.08
+Realme,X7 Max,Others,128,8,MediaTek,6.4,Medium,3,1,4500,4.3,22103,27149,0.09
+Realme,X7 Max,Silver,256,12,MediaTek,6.4,Medium,3,1,4500,4.3,7692,30149,0.08
+Realme,GT 5G,Silver,128,8,Qualcomm,6.4,Medium,3,1,4500,4.3,151,37999,0.07
+Realme,7,White,128,8,MediaTek,6.5,Large,4,1,5000,4.3,86680,17999,0.14
+Realme,5 Pro,Blue,128,8,Qualcomm,6.3,Medium,4,1,4035,4.5,80759,16999,0.05
+Realme,5 Pro,Blue,64,6,Qualcomm,6.3,Medium,4,1,4035,4.5,116084,14999,0.06
+Realme,3i,Black,32,3,MediaTek,6.2,Medium,2,1,4230,4.4,300585,8499,0.05
+Realme,3i,Blue,32,3,MediaTek,6.2,Medium,2,1,4230,4.4,300585,8499,0.05
+Realme,Narzo 20 Pro,Others,64,6,MediaTek,6.5,Large,4,1,4500,4.3,106507,14999,0.11
+Realme,7 Pro,Silver,128,8,Qualcomm,6.4,Medium,4,1,4500,4.3,48036,21999,0.04
+Realme,7 Pro,Others,128,8,Qualcomm,6.4,Medium,4,1,4500,4.3,48036,21999,0.04
+Realme,3i,Red,64,4,MediaTek,6.2,Medium,2,1,4230,4.4,78903,10499,0.04
+Realme,3i,Blue,64,4,MediaTek,6.2,Medium,2,1,4230,4.4,78903,10499,0.04
+Realme,X3 SuperZoom,Blue,128,8,Qualcomm,6.6,Large,4,2,4200,4.3,10476,27999,0.06
+Realme,X3 SuperZoom,Blue,256,8,Qualcomm,6.6,Large,4,2,4200,4.3,10476,29999,0.06
+Realme,GT 5G,Blue,128,8,Qualcomm,6.4,Medium,3,1,4500,4.3,151,37999,0.07
+Realme,5 Pro,Green,64,4,Qualcomm,6.3,Medium,4,1,4035,4.5,146634,13999,0.06
+Realme,X7 Pro 5G,Others,128,8,MediaTek,6.5,Large,4,1,4500,4.3,11105,30149,0.08
+Realme,C2,Blue,16,2,MediaTek,6.1,Medium,2,1,4000,4.4,907986,6499,0.07
+Realme,GT 5G,Yellow,256,12,Qualcomm,6.4,Medium,3,1,4500,4.3,244,41999,0.04
+Realme,X3,White,128,8,Qualcomm,6.6,Large,4,2,4200,4.4,15341,25999,0.07
+Realme,X7 Pro 5G,Black,128,8,MediaTek,6.5,Large,4,1,4500,4.3,11105,30149,0.08
+Realme,6,Blue,64,6,MediaTek,6.5,Large,4,1,4300,4.4,186593,14999,0.16
+Realme,C2,Black,32,2,MediaTek,6.1,Medium,2,1,4000,4.4,907986,6999,0.12
+Realme,C2,Black,32,3,MediaTek,6.1,Medium,2,1,4000,4.4,143818,7499,0.16
+Realme,X3 SuperZoom,Blue,256,12,Qualcomm,6.6,Large,4,2,4200,4.2,2753,32999,0.05
+Realme,X3 SuperZoom,White,256,12,Qualcomm,6.6,Large,4,2,4200,4.2,2753,32999,0.05
+Realme,X3 SuperZoom,White,256,8,Qualcomm,6.6,Large,4,2,4200,4.3,10476,29999,0.06
+Realme,6,Blue,128,8,MediaTek,6.5,Large,4,1,4300,4.4,52862,16999,0.05
+Realme,6i,White,64,4,MediaTek,6.5,Large,4,1,4300,4.4,60019,12999,0.13
+Realme,6,White,64,6,MediaTek,6.5,Large,4,1,4300,4.4,186593,14999,0.16
+Realme,Narzo 30A,Black,64,4,MediaTek,6.5,Large,2,1,6000,4.3,118976,10499,0.04
+Realme,Narzo 30A,Blue,64,4,MediaTek,6.5,Large,2,1,6000,4.3,118976,10499,0.04
+Realme,Narzo 30A,Blue,32,3,MediaTek,6.5,Large,2,1,6000,4.3,115174,8999,0.1
+Realme,C15,Blue,64,4,MediaTek,6.5,Large,4,1,6000,4.4,121179,10999,0.15
+Realme,C15,Silver,64,4,MediaTek,6.5,Large,4,1,6000,4.4,121179,10999,0.15
+Realme,8 Pro,Blue,128,6,Qualcomm,6.4,Medium,4,1,4500,4.3,60758,18149,0.09
+Realme,C25,Gray,64,4,MediaTek,6.5,Large,3,1,6000,4.4,40021,9999,0.09
+Realme,8,Silver,128,4,MediaTek,6.4,Medium,4,1,5000,4.3,66233,15999,0.05
+Realme,C25,Blue,64,4,MediaTek,6.5,Large,3,1,6000,4.4,40021,9999,0.09
+Realme,C15,Silver,32,3,MediaTek,6.5,Large,4,1,6000,4.3,53691,9999,0.16
+Realme,8 Pro,Yellow,128,8,Qualcomm,6.4,Medium,4,1,4500,4.4,27742,20149,0.08
+Realme,8 Pro,Yellow,128,6,Qualcomm,6.4,Medium,4,1,4500,4.3,60758,18149,0.09
+Realme,C25,Gray,128,4,MediaTek,6.5,Large,3,1,6000,4.4,40021,10999,0.08
+Realme,C25,Blue,128,4,MediaTek,6.5,Large,3,1,6000,4.4,40021,10999,0.08
+Realme,X7 5G,Silver,128,6,MediaTek,6.4,Medium,3,1,4310,4.3,56818,19999,0.09
+Realme,C12,Blue,32,3,MediaTek,6.5,Large,3,1,6000,4.4,310484,8999,0.18
+Realme,X7 5G,Silver,128,8,MediaTek,6.4,Medium,3,1,4310,4.3,19628,22149,0.07
+Realme,3i,Black,64,4,MediaTek,6.2,Medium,2,1,4230,4.4,78903,10499,0.04
+Realme,5 Pro,Green,128,8,Qualcomm,6.3,Medium,4,1,4035,4.5,80759,16999,0.05
+Realme,3i,Red,32,3,MediaTek,6.2,Medium,2,1,4230,4.4,300585,8499,0.05
+Realme,7 Pro,Blue,128,6,Qualcomm,6.4,Medium,4,1,4500,4.4,92443,19999,0.04
+Realme,7,Blue,128,8,MediaTek,6.5,Large,4,1,5000,4.3,86680,17999,0.14
+Realme,7 Pro,Others,128,6,Qualcomm,6.4,Medium,4,1,4500,4.4,92443,19999,0.04
+Realme,7 Pro,Blue,128,8,Qualcomm,6.4,Medium,4,1,4500,4.3,48036,21999,0.04
+Realme,7 Pro,Silver,128,6,Qualcomm,6.4,Medium,4,1,4500,4.4,92443,19999,0.04
+Realme,5 Pro,White,64,6,Qualcomm,6.3,Medium,4,1,4035,4.5,116084,14999,0.06
+Realme,5 Pro,Green,64,6,Qualcomm,6.3,Medium,4,1,4035,4.5,116084,14999,0.06
+Realme,7,White,64,6,MediaTek,6.5,Large,4,1,5000,4.3,258542,14999,0.16
+Realme,Narzo 20 Pro,Others,128,8,MediaTek,6.5,Large,4,1,4500,4.3,49263,16999,0.1
+Realme,X3 SuperZoom,White,128,8,Qualcomm,6.6,Large,4,2,4200,4.3,10476,27999,0.06
+Realme,X3,White,128,6,Qualcomm,6.6,Large,4,2,4200,4.4,2576,24999,0.07
+Realme,Narzo 20,Blue,64,4,MediaTek,6.5,Large,3,1,6000,4.3,496402,10499,0.19
+Realme,Narzo 20,Silver,64,4,MediaTek,6.5,Large,3,1,6000,4.3,496402,10499,0.19
+Realme,Narzo 20,Silver,128,4,MediaTek,6.5,Large,3,1,6000,4.3,496402,11499,0.17
+Realme,Narzo 10A,White,64,4,MediaTek,6.5,Large,3,1,5000,4.5,86780,9999,0.09
+Realme,X3,Blue,128,6,Qualcomm,6.6,Large,4,2,4200,4.4,2576,24999,0.07
+Realme,Narzo 20,Blue,128,4,MediaTek,6.5,Large,3,1,6000,4.3,496402,11499,0.17
+Realme,C2,Black,16,2,MediaTek,6.1,Medium,2,1,4000,4.4,907986,6499,0.07
+Realme,Narzo 10A,White,32,3,MediaTek,6.5,Large,3,1,5000,4.5,53624,8999,0.1
+Realme,Narzo 10A,Blue,32,3,MediaTek,6.5,Large,3,1,5000,4.5,53624,8999,0.1
+Realme,Narzo 20A,Silver,32,3,Qualcomm,6.5,Large,3,1,5000,4.3,77420,8499,0.22
+Realme,Narzo 10,Green,128,4,MediaTek,6.5,Large,4,1,5000,4.5,179818,11999,0.07
+Realme,Narzo 10,White,128,4,MediaTek,6.5,Large,4,1,5000,4.5,179818,11999,0.07
+Realme,Narzo 20A,Silver,64,4,Qualcomm,6.5,Large,3,1,5000,4.4,205553,9499,0.2
+Samsung,Galaxy F22,Black,64,4,MediaTek,6.4,Medium,4,1,6000,4.3,15172,12999,0.13
+Samsung,Galaxy F22,Blue,64,4,MediaTek,6.4,Medium,4,1,6000,4.3,15172,12999,0.13
+Samsung,Galaxy F22,Blue,128,6,MediaTek,6.4,Medium,4,1,6000,4.3,6179,14999,0.11
+Samsung,Galaxy F22,Black,128,6,MediaTek,6.4,Medium,4,1,6000,4.3,6179,14999,0.11
+Samsung,Galaxy F12,Blue,64,4,Exynos,6.5,Large,4,1,6000,4.2,90093,11499,0.11
+Samsung,Galaxy F12,Green,64,4,Exynos,6.5,Large,4,1,6000,4.2,90093,11499,0.11
+Samsung,M02s,Blue,32,3,Qualcomm,6.5,Large,3,1,5000,4.2,756,9569,0.07
+Samsung,Galaxy M02,Blue,32,2,MediaTek,6.5,Large,2,1,5000,4.0,851,8278,0.01
+Samsung,Galaxy A22,Black,128,6,MediaTek,6.4,Medium,4,1,5000,4.3,262,18499,0.09
+Samsung,Galaxy F12,Green,128,4,Exynos,6.5,Large,4,1,6000,4.2,90093,12499,0.1
+Samsung,Galaxy F12,Black,64,4,Exynos,6.5,Large,4,1,6000,4.2,90093,11499,0.11
+Samsung,Galaxy F12,Blue,128,4,Exynos,6.5,Large,4,1,6000,4.2,90093,12499,0.1
+Samsung,Galaxy A52s 5G,White,128,8,Qualcomm,6.5,Large,4,1,4500,4.5,66,37499,0.08
+Samsung,Galaxy M32,Black,64,4,MediaTek,6.4,Medium,4,1,6000,4.2,190,14750,0.07
+Samsung,Galaxy F12,Black,128,4,Exynos,6.5,Large,4,1,6000,4.2,90093,12499,0.1
+Samsung,Galaxy Z Flip3 5G,Others,256,8,Qualcomm,6.7,Large,2,1,3300,4.3,31,88999,0.11
+Samsung,Galaxy M02,Black,32,2,MediaTek,6.5,Large,2,1,5000,4.0,851,8238,0.01
+Samsung,Galaxy A22 5G,Gray,128,8,MediaTek,6.6,Large,3,1,5000,4.2,106,21999,0.08
+Samsung,Galaxy A21s,Black,128,6,Exynos,6.5,Large,4,1,5000,4.2,8003,17499,0.07
+Samsung,Galaxy A03s,Black,64,4,MediaTek,6.5,Large,3,1,5000,4.2,140,12499,0.13
+Samsung,Galaxy M31,Black,128,6,Others,6.4,Medium,4,1,6000,4.3,10058,17599,0.01
+Samsung,Galaxy M31,Blue,128,8,Others,6.4,Medium,4,1,6000,4.3,1714,18666,0.01
+Samsung,Galaxy A51,Black,128,8,Exynos,6.5,Large,4,1,4000,4.3,4651,22499,0.25
+Samsung,Galaxy A72,Black,128,8,Qualcomm,6.7,Large,4,1,5000,4.3,253,34225,0.02
+Samsung,Galaxy A51,Blue,128,8,Exynos,6.5,Large,4,1,4000,4.3,4651,22499,0.25
+Samsung,Galaxy A21s,Blue,128,6,Exynos,6.5,Large,4,1,5000,4.2,8003,17499,0.07
+Samsung,Galaxy A12,Blue,64,4,MediaTek,6.5,Large,4,1,5000,4.2,2726,12176,0.23
+Samsung,Galaxy Z Flip3 5G,Black,128,8,Qualcomm,6.7,Large,2,1,3300,4.3,31,84999,0.11
+Samsung,Galaxy F62,Gray,128,6,Exynos,6.7,Large,4,1,7000,4.2,58327,23999,0.2
+Samsung,Galaxy A22 5G,Gray,128,6,MediaTek,6.6,Large,3,1,5000,4.3,178,20288,0.09
+Samsung,Galaxy A31,Blue,128,6,MediaTek,6.4,Medium,4,1,5000,4.3,13355,16999,0.29
+Samsung,Galaxy A52,Black,128,6,Qualcomm,6.5,Large,4,1,4500,4.3,647,27499,0.09
+Samsung,Galaxy A21s,Silver,128,6,Exynos,6.5,Large,4,1,5000,4.2,8003,17499,0.07
+Samsung,Galaxy A12,Black,128,6,Exynos,6.5,Large,4,1,5000,3.9,33,16499,0.08
+Samsung,Galaxy F62,Green,128,6,Exynos,6.7,Large,4,1,7000,4.2,58327,23999,0.2
+Samsung,Galaxy A03s,Black,32,3,MediaTek,6.5,Large,3,1,5000,4.0,24,11499,0.14
+Samsung,Galaxy F02s,Black,64,4,Qualcomm,6.5,Large,3,1,5000,4.2,3828,10499,0.08
+Samsung,Galaxy F62,Blue,128,6,Exynos,6.7,Large,4,1,7000,4.2,58327,23999,0.2
+Samsung,Galaxy A52s 5G,Black,128,8,Qualcomm,6.5,Large,4,1,4500,4.5,66,37499,0.08
+Samsung,Galaxy F02s,Blue,64,4,Qualcomm,6.5,Large,3,1,5000,4.2,3828,10499,0.08
+Samsung,Galaxy M11,Black,64,4,Qualcomm,6.4,Medium,3,1,5000,4.3,8789,10986,0.02
+Samsung,Galaxy F41,Green,64,6,Exynos,6.4,Medium,3,1,6000,4.3,370875,15999,0.2
+Samsung,Galaxy Z Flip3 5G,Others,128,8,Qualcomm,6.7,Large,2,1,3300,4.3,31,84999,0.11
+Samsung,Galaxy A12,White,64,4,MediaTek,6.5,Large,4,1,5000,4.2,2726,12390,0.11
+Samsung,Galaxy A12,White,128,6,Exynos,6.5,Large,4,1,5000,3.9,33,16499,0.08
+Samsung,Galaxy A22 5G,Others,128,6,MediaTek,6.6,Large,3,1,5000,4.3,178,20696,0.05
+Samsung,Galaxy A21s,Blue,64,4,Exynos,6.5,Large,4,1,5000,4.2,22118,14999,0.16
+Samsung,Galaxy A31,White,128,6,MediaTek,6.4,Medium,4,1,5000,4.3,13355,22990,0.04
+Samsung,Galaxy A51,Silver,128,6,Exynos,6.5,Large,4,1,4000,4.3,10480,20999,0.19
+Samsung,Galaxy A71,Silver,128,8,Qualcomm,6.7,Large,4,1,4500,4.4,7021,27499,0.21
+Samsung,Galaxy Z Flip3 5G,Black,256,8,Qualcomm,6.7,Large,2,1,3300,4.3,31,88999,0.11
+Samsung,Galaxy Note 20,Green,256,8,Exynos,6.7,Large,3,1,4300,4.3,77,77999,0.09
+Samsung,Galaxy A21s,White,64,4,Exynos,6.5,Large,4,1,5000,4.2,22118,14999,0.16
+Samsung,Galaxy Z Fold3 5G,Black,256,12,Qualcomm,7.6,Very Large,3,1,4400,4.4,21,149999,0.12
+Samsung,Galaxy M01,Blue,32,3,Qualcomm,5.7,Small,2,1,4000,4.2,20483,9299,0.07
+Samsung,Galaxy F02s,Black,32,3,Qualcomm,6.5,Large,3,1,5000,4.2,3415,9499,0.09
+Samsung,Galaxy Note 20,Bronze,256,8,Exynos,6.7,Large,3,1,4300,4.3,77,77999,0.09
+Samsung,Galaxy M02,Gray,32,3,MediaTek,6.5,Large,2,1,5000,4.0,1287,8850,0.11
+Samsung,Galaxy A21s,Black,64,4,Exynos,6.5,Large,4,1,5000,4.2,22118,14999,0.16
+Samsung,Galaxy Z Fold3 5G,Black,512,12,Qualcomm,7.6,Very Large,3,1,4400,4.4,21,157999,0.12
+Samsung,Galaxy Z Fold3 5G,Green,256,12,Qualcomm,7.6,Very Large,3,1,4400,4.4,21,149999,0.12
+Samsung,Galaxy F02s,White,32,3,Qualcomm,6.5,Large,3,1,5000,4.2,3415,9499,0.09
+Samsung,Galaxy A03s,White,64,4,MediaTek,6.5,Large,3,1,5000,4.2,140,12499,0.13
+Samsung,Galaxy A52s 5G,Black,128,6,Qualcomm,6.5,Large,4,1,4500,4.3,24,35999,0.07
+Samsung,Galaxy A21s,Black,64,6,Exynos,6.5,Large,4,1,5000,4.2,8003,15199,0.01
+Samsung,Galaxy A50s,Black,128,4,Exynos,6.4,Medium,3,1,4000,4.3,47755,14999,0.39
+Samsung,Galaxy A52,Black,128,8,Qualcomm,6.5,Large,4,1,4500,4.4,607,28999,0.09
+Samsung,Galaxy A03s,Blue,32,3,MediaTek,6.5,Large,3,1,5000,4.0,24,11499,0.14
+Samsung,Galaxy A03s,Blue,64,4,MediaTek,6.5,Large,3,1,5000,4.2,140,12400,0.03
+Samsung,Galaxy Note 20 Ultra 5G,Bronze,256,12,Exynos,6.9,Large,3,1,4500,4.5,221,91999,0.2
+Samsung,Galaxy A03s,White,32,3,MediaTek,6.5,Large,3,1,5000,4.0,24,11499,0.14
+Samsung,Galaxy Note 20,Blue,256,8,Exynos,6.7,Large,3,1,4300,4.3,77,54599,0.31
+Samsung,Galaxy A52s 5G,White,128,6,Qualcomm,6.5,Large,4,1,4500,4.3,24,35999,0.07
+Samsung,Galaxy S20 FE,White,128,8,Exynos,6.5,Large,3,1,4500,4.0,879,49999,0.24
+Samsung,Galaxy M02,Red,32,3,MediaTek,6.5,Large,2,1,5000,4.0,1287,8083,0.01
+Samsung,Galaxy A12,Blue,128,6,Exynos,6.5,Large,4,1,5000,3.9,33,16499,0.08
+Samsung,Galaxy Grand 2,Gold,8,1,Qualcomm,5.2,Small,1,1,2600,4.1,4686,15999,0.04
+Samsung,Galaxy S20 FE,Others,128,8,Exynos,6.5,Large,3,1,4500,4.0,879,49999,0.24
+Samsung,Galaxy Fold 2,Bronze,256,12,Qualcomm,7.6,Very Large,3,3,4500,3.0,10,149999,0.21
+Samsung,Galaxy A50s,Others,128,4,Exynos,6.4,Medium,3,1,4000,4.3,47755,14999,0.39
+Samsung,Galaxy Note 20 Ultra 5G,Black,256,12,Exynos,6.9,Large,3,1,4500,4.5,221,91999,0.2
+Samsung,Galaxy A7,Blue,64,4,Others,6.0,Medium,3,1,3300,4.4,12902,17990,0.29
+Samsung,Galaxy J6,Blue,64,4,Exynos,5.6,Small,1,1,3000,4.5,42278,9490,0.44
+Samsung,Galaxy J7 - 6,Others,16,2,Exynos,5.5,Small,1,1,3300,4.3,77831,15299,0.01
+Samsung,Galaxy A10,Blue,32,2,Exynos,6.2,Medium,1,1,3400,4.3,13112,7990,0.08
+Samsung,Galaxy Grand 2,Black,8,1,Qualcomm,5.2,Small,1,1,2600,4.1,4686,15999,0.04
+Samsung,Galaxy J7 - 6,Others,16,2,Exynos,5.5,Small,1,1,3300,4.3,77831,13800,0.08
+Samsung,Galaxy A20,Black,32,3,Exynos,6.4,Medium,2,1,4000,4.3,15519,11490,0.1
+Samsung,Galaxy A22 5G,Others,128,8,MediaTek,6.6,Large,3,1,5000,4.2,106,21999,0.08
+Samsung,Galaxy F02s,Blue,32,3,Qualcomm,6.5,Large,3,1,5000,4.2,3415,9499,0.09
+Samsung,Galaxy F62,Blue,128,8,Exynos,6.7,Large,4,1,7000,4.3,28475,25999,0.18
+Samsung,Galaxy F41,Green,128,6,Exynos,6.4,Medium,3,1,6000,4.3,370875,14499,0.3
+Samsung,Galaxy F41,Black,128,6,Exynos,6.4,Medium,3,1,6000,4.3,370875,14499,0.3
+Samsung,Galaxy F41,Blue,128,6,Exynos,6.4,Medium,3,1,6000,4.3,370875,14499,0.3
+Samsung,M02s,Red,64,4,Qualcomm,6.5,Large,3,1,5000,4.1,1090,9999,0.04
+Samsung,Galaxy F41,Black,64,6,Exynos,6.4,Medium,3,1,6000,4.3,370875,15999,0.2
+Samsung,Galaxy F41,Blue,64,6,Exynos,6.4,Medium,3,1,6000,4.3,370875,15999,0.2
+Samsung,Galaxy M32,Black,128,6,MediaTek,6.4,Medium,4,1,6000,4.4,205,16980,0.06
+Samsung,Galaxy A72,Blue,128,8,Qualcomm,6.7,Large,4,1,5000,4.3,253,34999,0.16
+Samsung,Galaxy A52,Blue,128,8,Qualcomm,6.5,Large,4,1,4500,4.4,607,28999,0.09
+Samsung,Galaxy A80,Gold,128,8,Qualcomm,6.7,Large,2,3,3700,4.4,5393,28490,0.14
+Samsung,Galaxy F62,Gray,128,8,Exynos,6.7,Large,4,1,7000,4.3,28475,25999,0.18
+Samsung,Galaxy S21 Plus,Black,128,8,Exynos,6.7,Large,3,1,4800,4.4,290,71999,0.28
+Samsung,Galaxy M42,Gray,128,8,Qualcomm,6.6,Large,3,1,5000,4.3,153,24499,0.05
+Samsung,Galaxy A51,Black,128,6,Exynos,6.5,Large,4,1,4000,4.3,10480,20999,0.19
+Samsung,Galaxy M30s,Blue,64,4,Exynos,6.4,Medium,1,1,6000,4.3,4205,14090,0.09
+Samsung,Galaxy A20s,Blue,32,3,Qualcomm,6.5,Large,3,1,4000,4.3,1099,11599,0.1
+Samsung,Galaxy Note10 Lite,Others,128,8,Exynos,6.7,Large,3,1,4500,4.3,1594,39999,0.11
+Samsung,Galaxy M01,Red,32,3,Qualcomm,5.7,Small,2,1,4000,4.2,20483,8999,0.1
+Samsung,Galaxy F62,Green,128,8,Exynos,6.7,Large,4,1,7000,4.3,28475,25999,0.18
+Samsung,Galaxy S20 FE,Red,128,8,Exynos,6.5,Large,3,1,4500,4.0,879,49999,0.24
+Samsung,Galaxy A71,Blue,128,8,Qualcomm,6.7,Large,4,1,4500,4.4,7021,27499,0.21
+Samsung,Galaxy A20s,Green,32,3,Qualcomm,6.5,Large,3,1,4000,4.3,1099,11599,0.1
+Samsung,Galaxy S21,Gray,256,8,Exynos,6.2,Medium,3,1,4000,4.3,134,73999,0.15
+Samsung,Galaxy A51,Blue,128,6,Exynos,6.5,Large,4,1,4000,4.3,10480,20999,0.19
+Samsung,Galaxy A20s,Black,32,3,Qualcomm,6.5,Large,3,1,4000,4.3,1099,11599,0.1
+Samsung,Galaxy A20s,Green,64,4,Qualcomm,6.5,Large,3,1,4000,4.3,1163,13695,0.08
+Samsung,Galaxy S10,Black,128,8,Exynos,6.1,Medium,2,1,3400,4.6,1910,39999,0.43
+Samsung,Galaxy A20s,Blue,64,4,Qualcomm,6.5,Large,3,1,4000,4.3,1163,13695,0.08
+Xiaomi,Redmi 9A,Black,32,3,MediaTek,6.5,Large,1,1,5000,4.3,8459,8394,0.06
+Xiaomi,Mi 11X,White,128,6,Qualcomm,6.7,Large,3,1,4520,4.3,388,24398,0.06
+Xiaomi,Redmi 8A Dual,White,32,3,Qualcomm,6.2,Medium,2,1,5000,4.2,16322,8299,0.07
+Xiaomi,Mi A3,Blue,64,4,Qualcomm,6.1,Medium,3,1,4030,4.3,37374,12990,0.13
+Xiaomi,Redmi 9,Blue,128,4,MediaTek,6.5,Large,2,1,5000,4.2,20611,10990,0.08
+Xiaomi,Mi 11 Lite,Black,128,8,Qualcomm,6.5,Large,3,1,4250,4.2,3361,23999,0.07
+Xiaomi,Mi 11 Lite,Blue,128,8,Qualcomm,6.5,Large,3,1,4250,4.2,3361,23999,0.07
+Xiaomi,Redmi Note 7 Pro,White,128,6,Qualcomm,6.3,Medium,2,1,4000,4.4,318077,15485,0.03
+Xiaomi,Mi 11X,Silver,128,6,Qualcomm,6.7,Large,3,1,4520,4.3,388,24780,0.04
+Xiaomi,Mi 10i,Black,128,6,Qualcomm,6.7,Large,4,1,4820,4.3,2431,23949,0.01
+Xiaomi,Redmi Note 6 Pro,Red,64,6,Qualcomm,6.3,Medium,2,2,4000,4.5,126998,12749,0.05
+Xiaomi,Redmi Note 9 Pro,White,64,4,Qualcomm,6.7,Large,4,1,5020,4.4,24422,16487,0.03
+Xiaomi,Redmi Note 6 Pro,Gold,64,4,Qualcomm,6.3,Medium,2,2,4000,4.5,625079,12459,0.22
+Xiaomi,Redmi Note 5 Pro,Gold,64,6,Qualcomm,6.0,Medium,2,1,4000,4.5,259322,13500,0.2
+Xiaomi,Redmi Note 7,Black,64,4,Qualcomm,6.3,Medium,2,1,4000,4.5,178343,11799,0.07
+Xiaomi,Redmi Y3,Red,64,4,Qualcomm,6.3,Medium,2,1,4000,4.4,3319,12999,0.07
+Xiaomi,Redmi K20,White,128,6,Qualcomm,6.4,Medium,3,1,4000,4.5,50770,20920,0.04
+Xiaomi,Mi 11 Lite,Others,128,8,Qualcomm,6.5,Large,3,1,4250,4.2,3361,23999,0.07
+Xiaomi,Mi 11 Lite,Black,128,6,Qualcomm,6.5,Large,3,1,4250,4.2,9325,21999,0.12
+Xiaomi,Mi 11 Lite,Blue,128,6,Qualcomm,6.5,Large,3,1,4250,4.2,9325,21999,0.12
+Xiaomi,Redmi Note 7 Pro,Blue,64,6,Qualcomm,6.3,Medium,2,1,4000,4.4,318077,14999,0.06
+Xiaomi,Redmi K20,White,64,6,Qualcomm,6.4,Medium,3,1,4000,4.5,50770,20899,0.05
+Xiaomi,Mi A3,White,64,4,Qualcomm,6.1,Medium,3,1,4030,4.3,37374,12990,0.13
+Xiaomi,Redmi 9,Others,64,4,MediaTek,6.5,Large,2,1,5000,4.2,20611,9840,0.08
+Xiaomi,Redmi 9,Black,64,4,MediaTek,6.5,Large,2,1,5000,4.2,20611,10099,0.03
+Xiaomi,Mi A3,Gray,64,4,Qualcomm,6.1,Medium,3,1,4030,4.3,37374,12990,0.13
+Xiaomi,Redmi Note 4,Gold,32,3,Qualcomm,5.5,Small,1,1,4100,4.4,642373,8565,0.04
+Xiaomi,Redmi Note 5,Black,64,4,Qualcomm,6.0,Medium,1,1,4000,4.4,357064,10999,0.04
+Xiaomi,Redmi Y3,Black,64,4,Qualcomm,6.3,Medium,2,1,4000,4.4,3319,12499,0.1
+Xiaomi,Redmi Note 7 Pro,Blue,128,6,Qualcomm,6.3,Medium,2,1,4000,4.4,318077,15649,0.01
+Xiaomi,Mi 10T,Black,128,8,Qualcomm,6.7,Large,3,1,5000,4.1,3411,34999,0.18
+Xiaomi,Mi 10T Pro,Black,128,8,Qualcomm,6.7,Large,3,1,5000,4.2,3571,36999,0.22
+Xiaomi,Redmi Note 6 Pro,Black,64,4,Qualcomm,6.3,Medium,2,2,4000,4.5,625079,11490,0.04
+Xiaomi,Redmi Note 7 Pro,Blue,64,4,Qualcomm,6.3,Medium,2,1,4000,4.5,847064,14450,0.03
+Xiaomi,Redmi Note 9 Pro,Gold,128,6,Qualcomm,6.7,Large,4,1,5020,4.3,1736,18778,0.01
+Xiaomi,Redmi Note 5 Pro,Black,64,6,Qualcomm,6.0,Medium,2,1,4000,4.5,259322,13400,0.13
+Xiaomi,Redmi Y2,Gold,32,3,Qualcomm,6.0,Medium,2,1,3080,4.5,120515,9499,0.09
+Xiaomi,Mi 10T,Black,128,6,Qualcomm,6.7,Large,3,1,5000,4.2,3882,32999,0.17
+Xiaomi,Redmi Note 6 Pro,Blue,64,4,Qualcomm,6.3,Medium,2,2,4000,4.5,625079,13990,0.12
+Xiaomi,Mi 10,Green,256,8,Qualcomm,6.7,Large,4,1,4780,4.1,283,54999,0.08
+Xiaomi,Redmi Note 7,Red,64,4,Qualcomm,6.3,Medium,2,1,4000,4.5,178343,13399,0.06
+Xiaomi,Redmi 6 Pro,Gold,32,3,Qualcomm,5.8,Small,2,1,4000,4.3,11220,10449,0.05
+Xiaomi,Redmi Note 6 Pro,Blue,64,6,Qualcomm,6.3,Medium,2,2,4000,4.5,126998,13999,0.09
+Xiaomi,Redmi Note 7 Pro,Black,64,4,Qualcomm,6.3,Medium,2,1,4000,4.5,847064,12900,0.04
+Xiaomi,Redmi Note 7 Pro,Black,64,6,Qualcomm,6.3,Medium,2,1,4000,4.4,318077,15999,0.05
+Xiaomi,Mi 10T,Silver,128,6,Qualcomm,6.7,Large,3,1,5000,4.2,3882,32999,0.17
+Xiaomi,Redmi 6 Pro,Blue,64,4,Qualcomm,5.8,Small,2,1,4000,4.3,10696,12499,0.03
+Xiaomi,Redmi 6 Pro,Gold,64,4,Qualcomm,5.8,Small,2,1,4000,4.3,10696,12349,0.05
+Xiaomi,Mi 11X Pro 5G,Black,128,8,Qualcomm,6.7,Large,3,1,4520,3.8,35,36499,0.01
+Xiaomi,Mi A1,Black,64,4,Qualcomm,5.5,Small,2,1,3080,4.4,470905,10490,0.25
+Xiaomi,Redmi 6A,Gold,32,2,MediaTek,5.5,Small,1,1,3000,4.3,55708,5742,0.28
+Xiaomi,Mi 10i,Black,128,8,Qualcomm,6.7,Large,4,1,4820,4.3,1326,24215,0.06
+Xiaomi,Redmi Note 9 Pro,Blue,128,4,Qualcomm,6.7,Large,2,1,5020,4.4,24422,14199,0.03
+Xiaomi,Redmi Note 9 Pro,Blue,128,6,Qualcomm,6.7,Large,4,1,5020,4.3,1736,14999,0.06
+Xiaomi,Redmi Y3,Red,32,3,Qualcomm,6.3,Medium,2,1,4000,4.4,20531,8252,0.31
+Xiaomi,Redmi 5,Blue,16,2,Qualcomm,5.7,Small,1,1,3300,4.3,4267,6890,0.18
+Xiaomi,Redmi 6 Pro,Black,32,3,Qualcomm,5.8,Small,2,1,4000,4.3,11220,7999,0.3
+Xiaomi,Redmi 6 Pro,Red,64,4,Qualcomm,5.8,Small,2,1,4000,4.3,10696,9699,0.28
+Xiaomi,Mi 11 Lite,Others,128,6,Qualcomm,6.5,Large,3,1,4250,4.2,9325,21999,0.12
+Xiaomi,Redmi 8A Dual,Blue,32,3,Qualcomm,6.2,Medium,2,1,5000,4.2,16322,8299,0.07
+Xiaomi,Redmi 6 Pro,Blue,32,3,Qualcomm,5.8,Small,2,1,4000,4.3,11220,8190,0.36
