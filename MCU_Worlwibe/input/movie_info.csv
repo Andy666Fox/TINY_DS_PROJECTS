@@ -1,0 +1,28 @@
+﻿movie_title,release_date,season,phase,production_budget_in_million_(USD),worldwide_collection_in_million_(USD),tomatometer,tomato_audience_score,imdb,metascore,meta_user_score
+Iron Man,"May 2, 2008",Spring,1,140,585.37,9.4,9.1,7.9,7.9,8.6
+The Incredible Hulk,"June 13, 2008",Spring,1,150,264.77,6.7,7,6.6,6.1,7
+Iron Man 2,"May 7, 2010",Spring,1,200,623.93,7.2,7.1,6.9,5.7,6.4
+Thor,"May 6, 2011",Spring,1,150,449.33,7.7,7.6,7,5.7,7.1
+Captain America: The First Avenger,"July 22, 2011",Summer,1,140,370.57,7.9,7.5,6.9,6.6,6.8
+The Avengers,"May 4, 2012",Spring,1,220,1518.82,9.1,9.1,8,6.9,8
+Iron Man 3,"May 3, 2013",Spring,2,200,1214.81,7.9,7.8,7.1,6.2,6.7
+Thor: The Dark World,"November 8, 2013",Fall,2,170,644.78,6.6,7.5,6.8,5.4,7.1
+Captain America: The Winter Soldier,"April 4, 2014",Spring,2,170,714.42,9,9.2,7.8,7,8.3
+Guardians of the Galaxy,"August 1, 2014",Summer,2,170,773.35,9.2,9.2,8,7.6,8.2
+Avengers: Age of Ultron,"May 1, 2015",Spring,2,250,1402.81,7.6,8.3,7.3,6.6,7.1
+Ant-Man,"July 17, 2015",Summer,2,130,519.31,8.3,8.5,7.3,6.4,7.5
+Captain America: Civil War,"May 6, 2016",Spring,3,250,1153.34,9,8.9,7.8,7.5,8
+Doctor Strange,"November 4, 2016",Fall,3,165,677.8,8.9,8.5,7.5,7.2,8
+Guardians of the Galaxy Vol. 2,"May 5, 2017",Spring,3,200,863.76,8.5,8.7,7.6,6.7,7.8
+Spider-Man: Homecoming,"July 7, 2017",Summer,3,175,880.17,9.2,8.7,7.4,7.3,7.6
+Thor: Ragnarok,"November 3, 2017",Fall,3,180,853.98,9.3,8.7,7.9,7.4,7.8
+Black Panther,"February 16, 2018",Winter,3,200,1347.6,9.6,7.9,7.3,8.8,6.3
+Avengers: Infinity War,"April 27, 2018",Spring,3,325,2048.36,8.5,9.1,8.4,6.8,8.6
+Ant-Man and the Wasp,"July 6, 2018",Summer,3,162,622.67,8.7,8.1,7,7,7.1
+Captain Marvel,"March 8, 2019",Winter,3,160,1128.46,7.9,4.5,6.8,6.4,3
+Avengers: Endgame,"April 26, 2019",Spring,3,356,2797.5,9.4,9,8.4,7.8,7.9
+Spider-Man: Far From Home,"July 2, 2019",Summer,3,160,1131.93,9,9.5,7.4,6.9,7.6
+Black Widow,"July 9, 2021",Summer,4,200,379.75,7.9,9.1,6.7,6.7,6.1
+Shang-Chi and the Legend of the Ten Rings,"September 3, 2021",Summer,4,150,432.24,9.1,9.8,7.4,7.1,7.1
+Eternals,"November 5, 2021",Fall,4,200,402.06,4.7,7.8,6.4,5.2,6.3
+Spider-Man: No Way Home,"December 17, 2021",Fall,4,200,1892.62,9.3,9.8,8.4,7.1,8.6
